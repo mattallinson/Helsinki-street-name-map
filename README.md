@@ -1,7 +1,7 @@
 # Road Names in Helsinki
 This colours the streets of Helsinki based on the ending of the street name.
 
-![the map](..blob/master/images/Greater_Helsinki_with_scale.png)
+![the map](/images/Greater_Helsinki_with_scale.png)
 
 ## Future Work
 My eventual goal is to make a coloured map of downtown Helsinki based on if streets named after people are named after a Finnish speaking person, a Swedish speaking person, or a Russian speaking person – but that will be hard and maybe will require getting to grips with Finnish natural language processing (lol) so this was my starting point to teach myself osmnx.
